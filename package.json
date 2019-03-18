@@ -20,6 +20,11 @@
 		"url": "https://github.com/xeuus/jbcollection/issues"
 	},
 	"devDependencies": {
+		"jest": "^24.5.0",
+		"ts-jest": "^24.0.0",
 		"typescript": "^3.3.3333"
+	},
+	"dependencies": {
+		"@types/jest": "^24.0.11"
 	}
 }
