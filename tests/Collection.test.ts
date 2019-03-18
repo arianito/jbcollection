@@ -1,4 +1,4 @@
-import {Collection} from "../src/collection";
+import {Collection} from "../src";
 
 test('merge two array by property', () => {
 	const a = [
