@@ -1,6 +1,6 @@
 {
-	"name": "jcollection",
-	"version": "1.0.2",
+	"name": "jbcollection",
+	"version": "1.0.3",
 	"description": "collection",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
@@ -9,15 +9,15 @@
 		"test": "jest --watch",
 		"test:once": "jest"
 	},
-	"homepage": "https://github.com/xeuus/jcollection",
+	"homepage": "https://github.com/xeuus/jbcollection",
 	"author": "Aryan Alikhani",
 	"license": "ISC",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/xeuus/jcollection.git"
+		"url": "https://github.com/xeuus/jbcollection.git"
 	},
 	"bugs": {
-		"url": "https://github.com/xeuus/jcollection/issues"
+		"url": "https://github.com/xeuus/jbcollection/issues"
 	},
 	"devDependencies": {
 		"typescript": "^3.3.3333"
